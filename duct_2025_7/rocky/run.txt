@@ -1,0 +1,9 @@
+https://crackstation.net/
+
+target hash: 70924d0cf669f9d23ccabd561202351f
+
+
+❯ ./rocky
+Enter input: emergencycall911
+Hash matched!
+DUCTF{In_the_land_of_cubicles_lined_in_gray_Where_the_clock_ticks_loud_by_the_light_of_day}
